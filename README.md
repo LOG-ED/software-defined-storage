@@ -6,7 +6,7 @@ Usatelo pure per prendere appunti, fare domande
 
 ## Parte 1
 
-[slide](https://docs.google.com/presentation/d/1QDVo2PxECeWevDDTidjdsRqvUW5qPSTgf3sWZhC7zfo/edit?usp=sharing)
+[slides](https://docs.google.com/presentation/d/1QDVo2PxECeWevDDTidjdsRqvUW5qPSTgf3sWZhC7zfo/edit?usp=sharing)
 
 ## Parte 2
 
@@ -130,7 +130,7 @@ ceph -w
 ceph -s
 
 ## Parte 3
-[slide](https://docs.google.com/presentation/d/1ETZ0vVr_ss4V4bcWJkjbjs_bdJrB9BbF0hk_KKLm-jc/edit?usp=sharing)
+[slides](https://docs.google.com/presentation/d/1ETZ0vVr_ss4V4bcWJkjbjs_bdJrB9BbF0hk_KKLm-jc/edit?usp=sharing)
 
 ### dashboard
         -        Lanciare 2 istanze e3standard.x4 -> Images ubuntu 16.04
