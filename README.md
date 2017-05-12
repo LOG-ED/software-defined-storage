@@ -1,8 +1,7 @@
 # software-defined-storage
 
-Benvenuti al corso su Software defined storage!
+_Benvenuti al corso su Software defined storage!_
 --------------------------------
-Usatelo pure per prendere appunti, fare domande
 
 ## Parte 1
 
